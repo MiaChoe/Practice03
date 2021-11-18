@@ -1,4 +1,4 @@
-package com.javaex.practice;//sc받은수 int num잡고 이게 사실상 x축이고, int v를 세로축으로 잡아
+package com.javaex.practice;//sc받은수 int num잡고 이게 사실상 x축이고, int v를 세로축으로 잡아.
 							//내가 시도한 1이니까 한 개, 2니까 두 개(x이니까 x개)이 방식은 탈출 문제가 있으니 잘 두었다가 후에 적용해보자	
 
 import java.util.Scanner;
